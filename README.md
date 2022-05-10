@@ -1,1 +1,1 @@
-# text-extractor-from-image
+# text-extractor-from-image is currently in development 
