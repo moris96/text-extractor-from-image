@@ -11,5 +11,5 @@
 ## Image:
 ![](images/tolkein%20quote.jpg)
 
-Output:
+## Output:
 ![](images/output.JPG)
